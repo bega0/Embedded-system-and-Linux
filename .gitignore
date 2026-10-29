@@ -1,3 +1,16 @@
+# Build directories
 build/
+
+# Compiler outputs
 *.o
+*.exe
+*.a
+*.so
+
+# Local executables
 sensor_demo
+
+# Debug files
+core
+core.*
+*.log
